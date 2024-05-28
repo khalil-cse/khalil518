@@ -29,6 +29,4 @@ Skills:  HTML / CSS/Java/Python/C/C++/machine learning
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil518&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khalil518)  
-
-![Profile views](https://gpvc.arturio.dev/khalil518)  
+  
